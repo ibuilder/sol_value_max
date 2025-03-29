@@ -21,8 +21,8 @@ This application helps Solana holders maximize value from their staking activiti
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/solana-staking-analyzer.git
-cd solana-staking-analyzer
+git clone https://github.com/ibuilder/sol-value-max.git
+cd sol-value-max
 
 # Set up a virtual environment (recommended)
 python -m venv venv
